@@ -1,0 +1,9 @@
+﻿  CGA.cpp
+c:\users\mikołajmachalski(272\desktop\agchallengepubl\agchallenge\cga.cpp(119): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+  Cindividual.cpp
+c:\users\mikołajmachalski(272\desktop\agchallengepubl\agchallenge\cindividual.cpp(61): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+  functionalities.cpp
+  Generowanie kodu...
+c:\users\mikołajmachalski(272\desktop\agchallengepubl\agchallenge\cga.cpp(66): warning C4700: użycie niezainicjowanej zmiennej lokalnej "pC_Child2"
+c:\users\mikołajmachalski(272\desktop\agchallengepubl\agchallenge\cga.cpp(66): warning C4700: użycie niezainicjowanej zmiennej lokalnej "pC_Child1"
+  AGChallenge.vcxproj -> C:\Users\MikołajMachalski(272\Desktop\AGChallengePubl\x64\Release\AGChallenge.exe

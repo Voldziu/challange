@@ -1,0 +1,3 @@
+﻿  CGA.cpp
+c:\users\mikołajmachalski(272\desktop\agchallengepubl\agchallenge\cga.cpp(125): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+  AGChallenge.vcxproj -> C:\Users\MikołajMachalski(272\Desktop\AGChallengePubl\x64\Debug\AGChallenge.exe
